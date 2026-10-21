@@ -1,0 +1,8 @@
+# Local Claude Code notes and skills
+.claude/
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
