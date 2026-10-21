@@ -1,0 +1,9 @@
+metaspace2020>=2.1.0
+metaspace-converter>=1.1.2
+anndata
+scanpy
+shapely>=2.0
+matplotlib
+pandas
+numpy
+jupyterlab
