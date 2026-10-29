@@ -1,5 +1,7 @@
 # METASPACE in Practice: Cancer Research with Public Data
 
+📺 [Watch the webinar recording on YouTube](https://www.youtube.com/watch?v=JV-o4hxBui0)
+
 Notebooks for the webinar *METASPACE in Practice: Cancer Research with Public Data*. They show how public cancer datasets in the [METASPACE](https://metaspace2020.org) knowledgebase can be found, compared and analyzed with the METASPACE Python client and the METASPACE converter.
 
 ## Notebooks
